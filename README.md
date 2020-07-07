@@ -1,9 +1,10 @@
 # :scroll: Korean community comment Dataset  
-
-DC인사이드의 15000여개의 댓글데이터  
+DC인사이드의 15000여개의 댓글데이터셋  
 15,000 comment data parsed in the Korean community  
 Project Date :calendar: `2020-06-20`  
-![label_g](https://user-images.githubusercontent.com/55491354/86750801-2d314180-c079-11ea-9c73-2d3b6876393b.png)
+  
+![label_g](https://user-images.githubusercontent.com/55491354/86750801-2d314180-c079-11ea-9c73-2d3b6876393b.png)   
+###### 전체 데이터중 18%정도의 악성댓글을 가지고 있는 데이터셋 입니다(2-way 기준)
 ----
 # 1.Dataset_Class
 Class | Description
