@@ -38,7 +38,7 @@ count = 0
         count = count+1
     return data
 ````
-malicious index가 1인 경우엔 0으로 수정하는, 높은 엄격도를 가지는 수정방법입니다
+malicious index가 1인 경우엔 0으로 수정하는, 낮은 엄격도를 가지는 수정방법입니다
 
 ## High level (malicious index Value Change 1 -> 0, 2 -> 1)
 ```
